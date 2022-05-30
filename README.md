@@ -1,2 +1,2 @@
 [# ui-ux]
-https://www.miricanvas.com/design/1153alx
+https://www.miricanvas.com/login?redirect=%2Fdesign%2F1153alx
